@@ -106,7 +106,6 @@ hr {
 .navigation {
   background-color: #D8E3E7;
   border-radius: 25px;
-  height: calc(100vh - 320px - 160px);
   margin-left: 3%;
   margin-top: 80px;
   padding: 2%;
@@ -115,7 +114,7 @@ hr {
 }
 
 .content {
-  height: 100%;
+  /* height? */
   padding: 20px;
   position: absolute;
   left: 20%;
